@@ -4,7 +4,9 @@ javascript code to host a local webserver
 node
 ## How to run
 clone the repository
+
 open the directory
+
 run: node main.js
 ## Modification
 you can change whatever in this directory as long as you dont move main.js
